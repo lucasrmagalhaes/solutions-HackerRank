@@ -6,8 +6,8 @@
 
 | Day |                              Challenge                              |     Solution  |                           
 |:-:|:------------------------:|:-------:|
-|  0  | Hello, World! | [Solution](https://github.com/lucasrmagalhaes/HackerRank-Solutions/blob/main/10%20Days%20of%20JS/Day%200%20-%20Hello%2C%20World/solution.js) |
-|  0  | Data Types | [Solution]() |
+|  0  | Hello, World! | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%200/Hello%2C%20World/solution.js) |
+|  0  | Data Types | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%200/Data%20Types/solution.js) |
 |  1  | Arithmetic Operators | [Solution]() |
 |  1  | Functions | [Solution]() |
 |  1  | Let and Const | [Solution]() |
