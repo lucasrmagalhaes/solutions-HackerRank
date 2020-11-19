@@ -6,6 +6,6 @@
 
 ##### 10 Days of JS
 
-| Day |               Challenge                                                          |                                                                                          Solution|
-|:-:|:------------------------:|
-|  0  | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                            | [Solution](https://github.com/lucasrmagalhaes/HackerRank-Solutions/blob/main/10%20Days%20of%20JS/Day%200%20-%20Hello%2C%20World/solution.js)                |
+| Day |                              Challenge                              |     Solution  |                           
+|:-:|:------------------------:|:-------:|
+|  0  | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](https://github.com/lucasrmagalhaes/HackerRank-Solutions/blob/main/10%20Days%20of%20JS/Day%200%20-%20Hello%2C%20World/solution.js) |
