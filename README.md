@@ -8,9 +8,9 @@
 |:-:|:------------------------:|:-------:|
 |  0  | Hello, World! | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%200/Hello%2C%20World/solution.js) |
 |  0  | Data Types | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%200/Data%20Types/solution.js) |
-|  1  | Arithmetic Operators | [Solution]() |
-|  1  | Functions | [Solution]() |
-|  1  | Let and Const | [Solution]() |
+|  1  | Arithmetic Operators | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%201/Arithmetic%20Operators/solution.js) |
+|  1  | Functions | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%201/Functions%20Challenge/solution.js) |
+|  1  | Let and Const | [Solution](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%201/Let%20and%20Const/solution.js) |
 |  2  | Conditional Statements: If-Else | [Solution]() |
 |  2  | Conditional Statements: Switch | [Solution]() |
 |  2  | Loops | [Solution]() |
