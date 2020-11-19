@@ -4,7 +4,7 @@
     </a>
 </p>
 
-##### 10 Days of JS
+#### 10 Days of JS
 
 | Day |                              Challenge                              |     Solution  |                           
 |:-:|:------------------------:|:-------:|
