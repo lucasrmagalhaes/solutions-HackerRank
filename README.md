@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://miro.medium.com/max/672/1*gHLlvTIan-EBAOaypVVcgA.png" alt="HackerRank" width=600 height=300>
+<img src="https://miro.medium.com/max/672/1*gHLlvTIan-EBAOaypVVcgA.png" alt="HackerRank" width=500 height=250>
 </p>
 
-#### 10 Days of JS
+# 10 Days of JS
 
 | Day |                              Challenge                              |     Solution  |                           
 |:-:|:------------------------:|:-------:|
