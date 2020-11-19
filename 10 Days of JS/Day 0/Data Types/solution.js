@@ -28,3 +28,10 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log(firstString + secondString)
 
 }
+
+/*
+ * Expected Output:
+ * 16
+ * 8.32
+ * HackerRank is the best place to learn and practice coding!
+ */
