@@ -11,9 +11,9 @@
 |  1  | Arithmetic Operators | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%201/Arithmetic%20Operators/solution.js) |
 |  1  | Functions | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%201/Functions%20Challenge/solution.js) |
 |  1  | Let and Const | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%201/Let%20and%20Const/solution.js) |
-|  2  | Conditional Statements: If-Else | [Solved]() |
-|  2  | Conditional Statements: Switch | [Solved]() |
-|  2  | Loops | [Solved]() |
+|  2  | Conditional Statements: If-Else | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%202/Conditional%20Statements%20-%20If-Else/solution.js) |
+|  2  | Conditional Statements: Switch | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%202/Conditional%20Statements%20-%20Switch/solution.js) |
+|  2  | Loops | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%202/Loops/solution.js) |
 |  3  | Arrays | [Solved]() |
 |  3  | Try, Catch, and Finally | [Solved]() |
 |  3  | Throw | [Solved]() |
