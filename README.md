@@ -17,17 +17,17 @@
 |  3  | Arrays | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Arrays/solution.js) |
 |  3  | Try, Catch, and Finally | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Try%2C%20Catch%2C%20and%20Finally/solution.js) |
 |  3  | Throw | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Throw/solution.js) |
-|  4  | Create a Rectangle Object | [Solved]() |
-|  4  | Count Objects | [Solved]() |
-|  4  | Classes | [Solved]() |
-|  5  | Inheritance | [Solved]() |
-|  5  | Template Literals | [Solved]() |
-|  5  | Arrow Functions | [Solved]() |
-|  6  | Bitwise Operators | [Solved]() |
-|  6  | JavaScript Dates | [Solved]() |
-|  7  | Regular Expressions I | [Solved]() |
-|  7  | Regular Expressions II | [Solved]() |
-|  7  | Regular Expressions III | [Solved]() |
-|  8  | Create a Button | [Solved]() |
-|  8  | Buttons Container | [Solved]() |
-|  9  | Binary Calculator | [Solved]() |
+|  4  | Create a Rectangle Object | [Unsolved]() |
+|  4  | Count Objects | [Unsolved]() |
+|  4  | Classes | [Unsolved]() |
+|  5  | Inheritance | [Unsolved]() |
+|  5  | Template Literals | [Unsolved]() |
+|  5  | Arrow Functions | [Unsolved]() |
+|  6  | Bitwise Operators | [Unsolved]() |
+|  6  | JavaScript Dates | [Unsolved]() |
+|  7  | Regular Expressions I | [Unsolved]() |
+|  7  | Regular Expressions II | [Unsolved]() |
+|  7  | Regular Expressions III | [Unsolved]() |
+|  8  | Create a Button | [Unsolved]() |
+|  8  | Buttons Container | [Unsolved]() |
+|  9  | Binary Calculator | [Unsolved]() |
