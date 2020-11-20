@@ -14,9 +14,9 @@
 |  2  | Conditional Statements: If-Else | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%202/Conditional%20Statements%20-%20If-Else/solution.js) |
 |  2  | Conditional Statements: Switch | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%202/Conditional%20Statements%20-%20Switch/solution.js) |
 |  2  | Loops | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%202/Loops/solution.js) |
-|  3  | Arrays | [Solved]() |
-|  3  | Try, Catch, and Finally | [Solved]() |
-|  3  | Throw | [Solved]() |
+|  3  | Arrays | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Arrays/solution.js) |
+|  3  | Try, Catch, and Finally | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Try%2C%20Catch%2C%20and%20Finally/solution.js) |
+|  3  | Throw | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Throw/solution.js) |
 |  4  | Create a Rectangle Object | [Solved]() |
 |  4  | Count Objects | [Solved]() |
 |  4  | Classes | [Solved]() |
