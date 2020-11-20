@@ -20,9 +20,9 @@
 |  4  | Create a Rectangle Object | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%204/Create%20a%20Rectangle%20Object/solution.js) |
 |  4  | Count Objects | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%204/Count%20Objects/solution.js) |
 |  4  | Classes | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%204/Classes%20Challenge/solution.js) |
-|  5  | Inheritance | [Unsolved]() |
-|  5  | Template Literals | [Unsolved]() |
-|  5  | Arrow Functions | [Unsolved]() |
+|  5  | Inheritance | [Unsolved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%205/Inheritance/solution.js) |
+|  5  | Template Literals | [Unsolved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%205/Template%20Literals/solution.js) |
+|  5  | Arrow Functions | [Unsolved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%205/Arrow%20Functions%20Challenge/solution.js) |
 |  6  | Bitwise Operators | [Unsolved]() |
 |  6  | JavaScript Dates | [Unsolved]() |
 |  7  | Regular Expressions I | [Unsolved]() |
