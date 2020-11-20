@@ -23,8 +23,8 @@
 |  5  | Inheritance | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%205/Inheritance/solution.js) |
 |  5  | Template Literals | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%205/Template%20Literals/solution.js) |
 |  5  | Arrow Functions | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%205/Arrow%20Functions%20Challenge/solution.js) |
-|  6  | Bitwise Operators | [Unsolved]() |
-|  6  | JavaScript Dates | [Unsolved]() |
+|  6  | Bitwise Operators | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%206/Bitwise%20Operators/solution.js) |
+|  6  | JavaScript Dates | [Unsolved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%206/JavaScript%20Dates/solution.js) |
 |  7  | Regular Expressions I | [Unsolved]() |
 |  7  | Regular Expressions II | [Unsolved]() |
 |  7  | Regular Expressions III | [Unsolved]() |
