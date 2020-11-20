@@ -17,9 +17,9 @@
 |  3  | Arrays | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Arrays/solution.js) |
 |  3  | Try, Catch, and Finally | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Try%2C%20Catch%2C%20and%20Finally/solution.js) |
 |  3  | Throw | [Solved](https://github.com/lucasrmagalhaes/solutions-HackerRank/blob/main/10%20Days%20of%20JS/Day%203/Throw/solution.js) |
-|  4  | Create a Rectangle Object | [Unsolved]() |
-|  4  | Count Objects | [Unsolved]() |
-|  4  | Classes | [Unsolved]() |
+|  4  | Create a Rectangle Object | [Solved]() |
+|  4  | Count Objects | [Solved]() |
+|  4  | Classes | [Solved]() |
 |  5  | Inheritance | [Unsolved]() |
 |  5  | Template Literals | [Unsolved]() |
 |  5  | Arrow Functions | [Unsolved]() |
